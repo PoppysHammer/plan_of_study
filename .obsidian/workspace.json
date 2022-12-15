@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "8d03b3346752b876",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c0db6e31f07d86e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a1519bb681d391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分库分表的背景.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "2b7b1c2804aa1a26"
+          }
+        ]
+      },
+      {
+        "id": "55127c2c52353b54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa195e29bc57b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分库分表的背景.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "2b7b1c2804aa1a26"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c99ed054e86c17c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c65dddf354d80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d1fa70dfb324a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9224ba9080084141",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "196b9ac6cbd9bd59",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "5faab1b37f73a35e",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ba7989195863fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f342ad789832e61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "分库分表的背景.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e94a3a4bb2458a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "分库分表的背景.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecbc0feb5bde8bde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54c5c07a35080c2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "分库分表的背景.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1a1519bb681d391",
+  "lastOpenFiles": [
+    "Pasted image 20221214175950.png",
+    "分库分表的背景.md",
+    "README.md"
+  ]
+}
