@@ -6,7 +6,6 @@
       {
         "id": "2c0db6e31f07d86e",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "f1a1519bb681d391",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.理论知识/1.分库分表的背景.md",
+                "file": "分库分表/1.理论知识/1.分库分表的背景.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,39 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.理论知识/2.分库分表的实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a69ed124f256e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.理论知识/3.Proxy模式.md",
+                "file": "分库分表/1.理论知识/2.分库分表的实现.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "ad62cf169eadf89b",
+        "id": "6386d30b969f2b51",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "7fbcf118c43a081c",
+            "id": "52bcbe60a0032ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.理论知识/3.Proxy模式.md",
+                "file": "分库分表/1.理论知识/3.Proxy模式.md",
                 "mode": "preview",
                 "source": false
               }
@@ -130,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.理论知识/3.Proxy模式.md",
+                "file": "分库分表/1.理论知识/2.分库分表的实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.理论知识/3.Proxy模式.md",
+                "file": "分库分表/1.理论知识/2.分库分表的实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.理论知识/3.Proxy模式.md"
+                "file": "分库分表/1.理论知识/2.分库分表的实现.md"
               }
             }
           }
@@ -181,12 +167,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a69ed124f256e46",
+  "active": "ded635795852108f",
   "lastOpenFiles": [
-    "1.理论知识/2.分库分表的实现.md",
-    "1.理论知识/3.Proxy模式.md",
-    "1.理论知识/1.分库分表的背景.md",
-    "Pasted image 20221214175950.png",
-    "README.md"
+    "分库分表/1.理论知识/3.Proxy模式.md",
+    "分库分表/1.理论知识/2.分库分表的实现.md",
+    "分库分表/1.理论知识/1.分库分表的背景.md",
+    "README.md",
+    "Pasted image 20221214175950.png"
   ]
 }
