@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1a1519bb681d391",
+            "id": "10894b76a120abcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分库分表/1.理论知识/1.分库分表的背景.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ded635795852108f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "分库分表/1.理论知识/2.分库分表的实现.md",
+                "file": "分库分表/1.理论知识/4.Client模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "6386d30b969f2b51",
+        "id": "7cc5c2d6e5f8bbd4",
         "type": "tabs",
         "children": [
           {
-            "id": "52bcbe60a0032ff9",
+            "id": "9fe47d0091bbb6af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分库分表/1.理论知识/3.Proxy模式.md",
+                "file": "分库分表/1.理论知识/4.Client模式.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Matrix层",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,11 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 260.5
   },
   "right": {
     "id": "5faab1b37f73a35e",
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分库分表/1.理论知识/2.分库分表的实现.md",
+                "file": "分库分表/1.理论知识/4.Client模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分库分表/1.理论知识/2.分库分表的实现.md",
+                "file": "分库分表/1.理论知识/4.Client模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分库分表/1.理论知识/2.分库分表的实现.md"
+                "file": "分库分表/1.理论知识/4.Client模式.md"
               }
             }
           }
@@ -167,11 +155,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ded635795852108f",
+  "active": "10894b76a120abcb",
   "lastOpenFiles": [
     "分库分表/1.理论知识/3.Proxy模式.md",
-    "分库分表/1.理论知识/2.分库分表的实现.md",
     "分库分表/1.理论知识/1.分库分表的背景.md",
+    "分库分表/1.理论知识/4.Client模式.md",
+    "分库分表/1.理论知识/2.分库分表的实现.md",
     "README.md",
     "Pasted image 20221214175950.png"
   ]
