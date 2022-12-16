@@ -6,6 +6,7 @@
       {
         "id": "2c0db6e31f07d86e",
         "type": "tabs",
+        "dimension": 49.443069306930695,
         "children": [
           {
             "id": "10894b76a120abcb",
@@ -24,6 +25,7 @@
       {
         "id": "7cc5c2d6e5f8bbd4",
         "type": "tabs",
+        "dimension": 50.556930693069305,
         "children": [
           {
             "id": "9fe47d0091bbb6af",
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Matrix层",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +159,8 @@
   "active": "10894b76a120abcb",
   "lastOpenFiles": [
     "分库分表/1.理论知识/3.Proxy模式.md",
-    "分库分表/1.理论知识/1.分库分表的背景.md",
     "分库分表/1.理论知识/4.Client模式.md",
+    "分库分表/1.理论知识/1.分库分表的背景.md",
     "分库分表/1.理论知识/2.分库分表的实现.md",
     "README.md",
     "Pasted image 20221214175950.png"
