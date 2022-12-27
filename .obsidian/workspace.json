@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#分页修正",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10894b76a120abcb",
+  "active": "a4d1fa70dfb324a8",
   "lastOpenFiles": [
     "分库分表/1.理论知识/3.Proxy模式.md",
     "分库分表/1.理论知识/1.分库分表的背景.md",
