@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#分页修正",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,9 +160,9 @@
   "active": "10894b76a120abcb",
   "lastOpenFiles": [
     "分库分表/1.理论知识/3.Proxy模式.md",
-    "分库分表/1.理论知识/4.Client模式.md",
     "分库分表/1.理论知识/1.分库分表的背景.md",
     "分库分表/1.理论知识/2.分库分表的实现.md",
+    "分库分表/1.理论知识/4.Client模式.md",
     "README.md",
     "Pasted image 20221214175950.png"
   ]
