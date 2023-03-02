@@ -6,12 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="abstract_mode_02" />
+        <module name="abstract_mode_01" />
         <module name="design_mode" />
+        <module name="builder_mode_01" />
         <module name="factory_mode_02" />
+        <module name="factory_mode_01" />
+        <module name="builder_mode_02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="abstract_mode_01" target="17" />
+      <module name="abstract_mode_02" target="17" />
+      <module name="builder_mode_01" target="17" />
+      <module name="builder_mode_02" target="17" />
       <module name="design_mode" target="17" />
+      <module name="factory_mode_01" target="17" />
       <module name="factory_mode_02" target="17" />
     </bytecodeTargetLevel>
   </component>

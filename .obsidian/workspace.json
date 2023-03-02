@@ -4,135 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "237c9a8450f6a241",
+        "id": "603dd62d8da82ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "7f29fe1bc99ff35f",
+            "id": "9cdf9e84df15abe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识整理/手写Spring（bugstack.cn）/2.实现带参构造函数的类实例化策略.md",
+                "file": "知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "14205bcb6db266b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/手写Spring（bugstack.cn）/2.实现带参构造函数的类实例化策略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5352cdbf33fbf8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/手写Spring（bugstack.cn）/2.实现带参构造函数的类实例化策略.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "656fec4cf270f9ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/手写Spring（bugstack.cn）/3.为Bean对象注入属性和依赖Bean的功能实现.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a7846eaa5e385e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/手写Spring（bugstack.cn）/4.资源加载器解析文件注册对象.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b07c789650d88fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/2.RabbitMq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99040dd2d405f49f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/10.mysql中Json类型与mybatis-plus结合使用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc589268968257a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/11.Seata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bb5599a0d2df597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识整理/11.Seata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "b0c37ca6a51de797"
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
-        "id": "5376c1f2cc439260",
+        "id": "f7301b3a5bfd2a16",
         "type": "tabs",
         "children": [
           {
-            "id": "e5766f30eba2acd8",
+            "id": "232b224df70e9bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识整理/11.Seata.md",
+                "file": "知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "b0c37ca6a51de797"
           }
         ]
       }
@@ -200,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识整理/11.Seata.md",
+                "file": "知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识整理/11.Seata.md",
+                "file": "知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识整理/11.Seata.md"
+                "file": "知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md"
               }
             }
           }
@@ -264,17 +169,17 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "e5766f30eba2acd8",
+  "active": "9cdf9e84df15abe3",
   "lastOpenFiles": [
-    "知识整理/10.mysql中Json类型与mybatis-plus结合使用.md",
-    "知识整理/6.SPEL表达式.md",
-    "知识整理/5.ShardingSphere-JDBC.md",
-    "知识整理/4.Canal.md",
-    "知识整理/11.Seata.md",
-    "知识整理/手写Spring（bugstack.cn）/4.资源加载器解析文件注册对象.md",
-    "知识整理/12.lock4j baomidou.md",
+    "知识整理/重学Java设计模式/创建型模式/3.实战建造者模式.md",
+    "知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md",
     "知识整理/重学Java设计模式/创建型模式/2.实战抽象工厂模式.md",
+    "知识整理/12.lock4j baomidou.md",
+    "知识整理/11.Seata.md",
     "知识整理/2.RabbitMq.md",
-    "知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md"
+    "知识整理/4.Canal.md",
+    "知识整理/9.PBAC-基于策略的访问控制系统.md",
+    "知识整理/8.服务治理-Sentinel.md",
+    "知识整理/7.Thread-Interrupt.md"
   ]
 }

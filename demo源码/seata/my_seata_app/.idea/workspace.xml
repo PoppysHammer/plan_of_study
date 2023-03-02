@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83f4f348-8a85-4d59-82bd-f3ce9ec7d84b" name="Changes" comment="" />
+    <list default="true" id="83f4f348-8a85-4d59-82bd-f3ce9ec7d84b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MMUoyagduGY1dv6oeDgaiBqyAN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +38,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
@@ -80,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677577123672</updated>
       <workItem from="1677577125577" duration="11706000" />
+      <workItem from="1677739033532" duration="763000" />
     </task>
     <servers />
   </component>

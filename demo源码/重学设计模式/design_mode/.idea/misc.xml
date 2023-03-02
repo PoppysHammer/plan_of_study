@@ -5,6 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/factory_mode_01/pom.xml" />
         <option value="$PROJECT_DIR$/factory_mode_02/pom.xml" />
+        <option value="$PROJECT_DIR$/abstract_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/abstract_mode_02/pom.xml" />
+        <option value="$PROJECT_DIR$/builder_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/builder_mode_02/pom.xml" />
       </list>
     </option>
   </component>
