@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04_configurable_bean_factory" />
+        <module name="05_application_context" />
+        <module name="02_cglib" />
+        <module name="write_spring" />
+        <module name="03_dependency_injection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="02_cglib" target="17" />
+      <module name="03_dependency_injection" target="17" />
+      <module name="04_configurable_bean_factory" target="17" />
+      <module name="05_application_context" target="17" />
+      <module name="write_spring" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

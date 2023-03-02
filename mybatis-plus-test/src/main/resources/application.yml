@@ -1,0 +1,9 @@
+server:
+  port: 1110
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/point_basic?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8
+    password: 88888888
+    username: zcm
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.zaxxer.hikari.HikariDataSource

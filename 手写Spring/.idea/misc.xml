@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_bean_definition/pom.xml" />
+        <option value="$PROJECT_DIR$/02_cglib/pom.xml" />
+        <option value="$PROJECT_DIR$/03_dependency_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/04_configurable_bean_factory/pom.xml" />
+        <option value="$PROJECT_DIR$/05_application_context/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

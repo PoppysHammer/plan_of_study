@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/factory_mode_01/design_mode.iml" filepath="$PROJECT_DIR$/factory_mode_01/design_mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory_mode_02/factory_mode_02.iml" filepath="$PROJECT_DIR$/factory_mode_02/factory_mode_02.iml" />
+    </modules>
+  </component>
+</project>
