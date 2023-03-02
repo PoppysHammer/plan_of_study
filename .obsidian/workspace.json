@@ -113,8 +113,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "bd2c76187ce3e1b8"
+            }
           }
         ],
         "currentTab": 8
@@ -133,8 +132,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "bd2c76187ce3e1b8"
+            }
           }
         ]
       }
@@ -266,17 +264,17 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "2bb5599a0d2df597",
+  "active": "e5766f30eba2acd8",
   "lastOpenFiles": [
-    "知识整理/手写Spring（bugstack.cn）/4.资源加载器解析文件注册对象.md",
-    "知识整理/11.Seata.md",
-    "知识整理/12.lock4j baomidou.md",
     "知识整理/10.mysql中Json类型与mybatis-plus结合使用.md",
     "知识整理/6.SPEL表达式.md",
+    "知识整理/5.ShardingSphere-JDBC.md",
+    "知识整理/4.Canal.md",
+    "知识整理/11.Seata.md",
+    "知识整理/手写Spring（bugstack.cn）/4.资源加载器解析文件注册对象.md",
+    "知识整理/12.lock4j baomidou.md",
     "知识整理/重学Java设计模式/创建型模式/2.实战抽象工厂模式.md",
     "知识整理/2.RabbitMq.md",
-    "知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md",
-    "知识整理/1.Redis.md",
-    "知识整理/手写Spring（bugstack.cn）/3.为Bean对象注入属性和依赖Bean的功能实现.md"
+    "知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md"
   ]
 }
