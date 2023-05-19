@@ -9,6 +9,15 @@
         <option value="$PROJECT_DIR$/abstract_mode_02/pom.xml" />
         <option value="$PROJECT_DIR$/builder_mode_01/pom.xml" />
         <option value="$PROJECT_DIR$/builder_mode_02/pom.xml" />
+        <option value="$PROJECT_DIR$/prototype_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/prototype_mode_02/pom.xml" />
+        <option value="$PROJECT_DIR$/single_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/adapter_mode_02/pom.xml" />
+        <option value="$PROJECT_DIR$/bridge_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/bridge_mode_02/pom.xml" />
+        <option value="$PROJECT_DIR$/aggregates_mode_01/pom.xml" />
+        <option value="$PROJECT_DIR$/aggregates_mode_02/pom.xml" />
       </list>
     </option>
   </component>

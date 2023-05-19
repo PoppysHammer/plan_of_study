@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d86cf2-74e1-42a0-9f80-8629dec97253" name="Changes" comment="" />
+    <list default="true" id="82d86cf2-74e1-42a0-9f80-8629dec97253" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../my_seata_app/src/main/java/io/seata/discovery/registry/redis/RedisRegistryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/seata/discovery/registry/redis/RedisRegistryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_app/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_app/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_app/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_app/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/entity/UserPointGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/entity/UserPointGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/1.分库分表的背景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/2.分库分表的实现.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/3.Proxy模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/4.Client模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +35,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MMUkhQ2sWYt6Yr2FtG6mVvCQ2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +54,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -43,9 +65,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.service" />
@@ -83,10 +105,22 @@
       <option name="presentableId" value="Default" />
       <updated>1677577090005</updated>
       <workItem from="1677577091998" duration="11495000" />
+      <workItem from="1678095797005" duration="3775000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

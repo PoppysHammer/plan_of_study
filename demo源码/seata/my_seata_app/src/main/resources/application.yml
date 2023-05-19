@@ -2,9 +2,11 @@ server:
   port: 8881
 spring:
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/brain_uc?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+    url: jdbc:mysql://prepare.mssh.landdt.cn:3308/brain_uc?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+#    username: root
+#    password: 88888888
     username: root
-    password: 88888888
+    password: Y%ket%w7
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.zaxxer.hikari.HikariDataSource
 
@@ -46,9 +48,7 @@ seata:
       exceptionRate: 100
   service:
     vgroup-mapping:
-      my_test_tx_group: default
-    grouplist:
-      default: 127.0.0.1:8091
+      my_test_tx_group: hgin
     #enable-degrade: false
     #disable-global-transaction: false
   transport:
@@ -73,5 +73,10 @@ seata:
   config:
     type: file
   registry:
-    type: file
+    type: redis # 注册中心类型，选择redis.mssh.landdt.cn
+    redis:
+      server-addr: prepare.mssh.landdt.cn:6379
+      password: 5gBdm!D4
+      db: 3
+
   application-id: brain_uc

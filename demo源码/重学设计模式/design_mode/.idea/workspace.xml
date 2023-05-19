@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ba93163-0a10-418e-bba9-d6bd282739ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/community-plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/1.分库分表的背景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/2.分库分表的实现.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/3.Proxy模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/4.Client模式.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/2.实战抽象工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/2.实战抽象工厂模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -54,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -67,9 +76,22 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ApiTest.test_Builder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="builder_mode_02" />
+  <component name="RunManager" selected="JUnit.ApiTest.test_EngineController">
+    <configuration name="Singleton_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.design.Singleton_06" />
+      <module name="single_mode_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.demo.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_EngineController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aggregates_mode_01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.demo.design.test.*" />
@@ -78,7 +100,55 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example.demo.design.test" />
       <option name="MAIN_CLASS_NAME" value="org.example.demo.design.test.ApiTest" />
-      <option name="METHOD_NAME" value="test_Builder" />
+      <option name="METHOD_NAME" value="test_EngineController" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_MQAdapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adapter_mode_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.demo.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.demo.design.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_MQAdapter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_itfAdapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adapter_mode_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.demo.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.demo.design.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_itfAdapter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_pay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bridge_mode_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.demo.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.demo.design.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.demo.design.test.ApiTest" />
+      <option name="METHOD_NAME" value="test_pay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,7 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ApiTest.test_Builder" />
+        <item itemvalue="JUnit.ApiTest.test_EngineController" />
+        <item itemvalue="JUnit.ApiTest.test_pay" />
+        <item itemvalue="JUnit.ApiTest.test_itfAdapter" />
+        <item itemvalue="JUnit.ApiTest.test_MQAdapter" />
+        <item itemvalue="Application.Singleton_06" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +177,17 @@
       <workItem from="1677134113113" duration="24000" />
       <workItem from="1677134161933" duration="4000" />
       <workItem from="1677202018144" duration="1000" />
-      <workItem from="1677744854437" duration="1797000" />
+      <workItem from="1677744854437" duration="3840000" />
+      <workItem from="1677806926368" duration="153000" />
+      <workItem from="1677807170980" duration="138000" />
+      <workItem from="1677807322131" duration="10413000" />
+      <workItem from="1678412430135" duration="10410000" />
+      <workItem from="1678670223391" duration="1322000" />
+      <workItem from="1678691662655" duration="3085000" />
+      <workItem from="1678695908005" duration="2549000" />
+      <workItem from="1678763309950" duration="601000" />
+      <workItem from="1678773065275" duration="1194000" />
+      <workItem from="1678843648154" duration="14421000" />
     </task>
     <servers />
   </component>
@@ -123,5 +207,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/adapter_mode_02/src/main/java/org/example/demo/design/MQAdapter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

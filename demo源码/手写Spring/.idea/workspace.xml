@@ -5,194 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db92829f-aba6-4421-a6b8-a2d40ce3101b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/java/org/example/MybatisPlusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/java/org/example/entity/UserPointGetEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/java/org/example/mapper/UserPointGetMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/java/org/example/service/UserPointGetService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/java/org/example/service/impl/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/java/org/example/service/impl/UserPointGetServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/src/test/java/org/example/UserPointGetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mybatis-plus-test/target/classes/org/example/MybatisPlusTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/BeansException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/config/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/main/java/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/test/java/org/example/springframework/test/bean/ApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_cglib/src/test/java/org/example/springframework/test/bean/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/BeansException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/PropertyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/config/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/config/BeanReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/main/java/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/test/java/org/example/springframework/test/bean/ApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/test/java/org/example/springframework/test/bean/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/src/test/java/org/example/springframework/test/bean/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/BeansException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/config/BeanDefinition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/InstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/classes/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/test-classes/org/example/springframework/test/bean/UserService/ApiTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_dependency_injection/target/test-classes/org/example/springframework/test/bean/UserService/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/BeansException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/PropertyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/config/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/config/BeanReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/AbstractBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/BeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/beans/factory/xml/XmlBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/core/io/ClassPathResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/core/io/DefaultResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/core/io/FileSystemResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/core/io/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/core/io/ResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/core/io/UrlResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/java/org/example/springfreamework/utils/ClassUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/resources/important.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/test/java/org/example/springframework/test/bean/ApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/test/java/org/example/springframework/test/bean/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/src/test/java/org/example/springframework/test/bean/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/BeansException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/PropertyValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/PropertyValues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/config/BeanDefinition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/config/BeanReference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/InstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/classes/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/test-classes/org/example/springframework/test/bean/ApiTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/test-classes/org/example/springframework/test/bean/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/test-classes/org/example/springframework/test/bean/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/test-classes/org/example/springframework/test/bean/UserService/ApiTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_configurable_bean_factory/target/test-classes/org/example/springframework/test/bean/UserService/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/BeansException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/PropertyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/AutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/ConfigurableListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/HierarchicalBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/ListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/config/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/config/BeanFactoryPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/config/BeanPostProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/config/BeanReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/config/ConfigurableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/AbstractBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/AbstractRefreshableApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/BeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/beans/factory/xml/XmlBeanDefinitionReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/context/ApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/context/ConfigurableApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/context/support/AbstractApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/core/io/ClassPathResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/core/io/DefaultResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/core/io/FileSystemResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/core/io/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/core/io/ResourceLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/core/io/UrlResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/java/org/example/springfreamework/utils/ClassUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/resources/important.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/test/java/org/example/springframework/test/bean/ApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/test/java/org/example/springframework/test/bean/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/src/test/java/org/example/springframework/test/bean/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/important.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/BeansException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/PropertyValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/PropertyValues.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/config/BeanDefinition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/config/BeanReference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/config/SingletonBeanRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/AbstractBeanDefinitionReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/AbstractBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/BeanDefinitionReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/BeanDefinitionRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/CglibSubclassingInstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/DefaultListableBeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/DefaultSingletonBeanRegistry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/InstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/support/SimpleInstantiationStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/beans/factory/xml/XmlBeanDefinitionReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/core/io/ClassPathResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/core/io/DefaultResourceLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/core/io/FileSystemResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/core/io/Resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/core/io/ResourceLoader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/core/io/UrlResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/org/example/springfreamework/utils/ClassUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/classes/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/test-classes/org/example/springframework/test/bean/ApiTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/test-classes/org/example/springframework/test/bean/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/test-classes/org/example/springframework/test/bean/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/test-classes/org/example/springframework/test/bean/UserService/ApiTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_application_context/target/test-classes/org/example/springframework/test/bean/UserService/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../知识整理/9.PBAC-基于策略的访问控制系统.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/appearance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/1.分库分表的背景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/2.分库分表的实现.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/3.Proxy模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/4.Client模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/1.Redis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/10.mysql中Json类型与mybatis-plus结合使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/11.Seata.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/12.lock4j baomidou.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/2.RabbitMq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/3.RocketMq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/4.Canal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/5.ShardingSphere-JDBC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/6.SPEL表达式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/7.Thread-Interrupt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/8.服务治理-Sentinel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/9.PBAC-基于策略的访问控制系统.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/1.实现Bean定义、注册、获取.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/2.实现带参构造函数的类实例化策略.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/3.为Bean对象注入属性和依赖Bean的功能实现.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/4.资源加载器解析文件注册对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/2.实战抽象工厂模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/3.实战建造者模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -335,9 +174,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ApiTest" />
       <item itemvalue="JUnit.ApiTest.test_classpath" />
       <item itemvalue="JUnit.ApiTest.test_file" />
-      <item itemvalue="Application.ApiTest" />
       <item itemvalue="JUnit.ApiTest.test_url" />
       <item itemvalue="JUnit.ApiTest.test_BeanFactory" />
     </list>
@@ -360,6 +199,9 @@
       <option name="presentableId" value="Default" />
       <updated>1676863814806</updated>
       <workItem from="1676863815918" duration="48234000" />
+      <workItem from="1682580592988" duration="24000" />
+      <workItem from="1683193653226" duration="1572000" />
+      <workItem from="1683265350673" duration="12000" />
     </task>
     <servers />
   </component>

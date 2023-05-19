@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f4f348-8a85-4d59-82bd-f3ce9ec7d84b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/seata/discovery/registry/redis/RedisRegistryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_seata_duoduoping/src/main/java/io/seata/discovery/registry/redis/RedisRegistryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_duoduoping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_duoduoping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_duoduoping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_duoduoping/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_duoduoping/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_duoduoping/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_seata_duoduoping/target/classes/org/example/entity/UserPointGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../my_seata_duoduoping/target/classes/org/example/entity/UserPointGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/1.分库分表的背景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/2.分库分表的实现.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/3.Proxy模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../分库分表/1.理论知识/4.Client模式.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/11.Seata.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +37,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,6 +70,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example/config" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -87,10 +112,33 @@
       <updated>1677577123672</updated>
       <workItem from="1677577125577" duration="11706000" />
       <workItem from="1677739033532" duration="763000" />
+      <workItem from="1678066175234" duration="9167000" />
+      <workItem from="1678089555197" duration="9641000" />
+      <workItem from="1678174321288" duration="642000" />
+      <workItem from="1678253778055" duration="617000" />
+      <workItem from="1678352421016" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$EntrySet" memberName="this$0" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
