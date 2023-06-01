@@ -6,13 +6,7 @@ import org.springframework.stereotype.Component;
 public class CoreEntity {
 
     public CoreEntity() {
-        System.out.println("this is CoreEntity...");
-        try {
-            Thread.sleep(100);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        System.out.println("11111");
+
     }
 
     public static void main(String[] args) {

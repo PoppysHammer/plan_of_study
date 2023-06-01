@@ -5,58 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1122ec78-8574-4ffc-8b00-a2a6be985379" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../seata/my_seata_app/src/main/java/io/seata/discovery/registry/redis/RedisRegistryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seata/my_seata_duoduoping/src/main/java/io/seata/discovery/registry/redis/RedisRegistryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/CoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/config/CoreConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/controller/CoreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/custom/CustomBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/entity/CoreEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/entity/TestInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-security/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/SecurityApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/entity/SecurityEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/resources/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/community-plugins.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.obsidian/core-plugins-migration.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/core-plugins-migration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/core-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/security/Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/test/java/org/example/TestExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_app/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_app/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_app/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_app/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_duoduoping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_duoduoping/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_duoduoping/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_duoduoping/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_duoduoping/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_duoduoping/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../seata/my_seata_duoduoping/target/classes/org/example/entity/UserPointGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../seata/my_seata_duoduoping/target/classes/org/example/entity/UserPointGet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/1.分库分表的背景.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/2.分库分表的实现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/3.Proxy模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../分库分表/1.理论知识/4.Client模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/1.Redis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/10.mysql中Json类型与mybatis-plus结合使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/11.Seata.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/12.lock4j baomidou.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/2.RabbitMq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/3.RocketMq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/4.Canal.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/5.ShardingSphere-JDBC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/6.SPEL表达式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/7.Thread-Interrupt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/8.服务治理-Sentinel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/9.PBAC-基于策略的访问控制系统.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/1.实现Bean定义、注册、获取.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/2.实现带参构造函数的类实例化策略.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/3.为Bean对象注入属性和依赖Bean的功能实现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/手写Spring（bugstack.cn）/4.资源加载器解析文件注册对象.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/1.实战工厂方法模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/2.实战抽象工厂模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/3.实战建造者模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识整理/重学Java设计模式/创建型模式/4.实战原型模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/config/CoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/config/CoreConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/entity/CoreEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/entity/CoreEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/config/CoreConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/config/CoreConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/entity/CoreEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/entity/CoreEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-security/src/main/resources/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/src/main/resources/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-security/target/classes/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/target/classes/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识认证/Spring/第四章.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../知识认证/Spring/第四章.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -109,7 +69,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-learn-security/src/main/java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -123,10 +84,11 @@
       <recent name="$PROJECT_DIR$/spring-learn-security/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.repository" />
       <recent name="org.example.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CoreApplication">
+  <component name="RunManager" selected="JUnit.TestExample.abc">
     <configuration name="CoreEntity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.entity.CoreEntity" />
       <module name="spring-learn-core" />
@@ -136,6 +98,52 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExample (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-learn-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.core" />
+      <option name="MAIN_CLASS_NAME" value="org.example.core.TestExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-learn-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExample.abc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-learn-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestExample" />
+      <option name="METHOD_NAME" value="abc" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,24 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-learn-security" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="example.SecurityApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestExample.abc" />
+        <item itemvalue="JUnit.TestExample (1)" />
+        <item itemvalue="JUnit.TestExample" />
         <item itemvalue="Spring Boot.CoreApplication" />
         <item itemvalue="Application.CoreEntity" />
-        <item itemvalue="Spring Boot.SecurityApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +181,11 @@
       <updated>1683359455075</updated>
       <workItem from="1683359456526" duration="16152000" />
       <workItem from="1683600743442" duration="624000" />
-      <workItem from="1683601388321" duration="18708000" />
+      <workItem from="1683601388321" duration="18861000" />
+      <workItem from="1684805260025" duration="1894000" />
+      <workItem from="1684808395119" duration="22596000" />
+      <workItem from="1685079330185" duration="29391000" />
+      <workItem from="1685522033508" duration="8920000" />
     </task>
     <servers />
   </component>
