@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    username: root
+    password: Y%ket%w7
+    url: jdbc:mysql://prepare.mssh.landdt.cn:3308/duoduoping_community?rewriteBatchedStatements=true
+    driver-class-name: com.mysql.cj.jdbc.Driver

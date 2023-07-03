@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d76c2b39-0d5f-4e5b-adbd-49902d9c8ae1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FilterChainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/ChargePipelineConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/filters/PointFilter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/filters/PointFilter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/filters/PointFilter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/filters/common/ContextVerifyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/filters/common/RedisLockFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/filters/common/RedisUnLockFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/AbstractEventFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/BaseEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/DefaultFilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/EventFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/EventFilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/FilterChainPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/context/AbstractEventContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/context/EventContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/context/PointContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pipeline/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/point/PointRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/core/SecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/entity/TestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-spring-labfiles" beforeDir="false" afterPath="$PROJECT_DIR$/../core-spring-labfiles" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-learn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/entity/SecurityEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/src/main/java/org/example/entity/SecurityEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-learn/spring-learn-security/target/classes/org/example/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/target/classes/org/example/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-learn/spring-learn-security/target/classes/org/example/entity/SecurityEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-learn/spring-learn-security/target/classes/org/example/entity/SecurityEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/JAVA中间件相关/11.Seata.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../知识整理/JAVA中间件相关/11.Seata.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识认证/Spring脑图/Spring.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../知识认证/Spring脑图/Spring.xmind" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RVHuvovmahKt4INc4mk5n8z7WJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example/filters" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="filters" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/example/filters" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.filters" />
+      <recent name="pipeline" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestFilter.abc">
+    <configuration name="TestFilter.abc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filter-chain-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestFilter" />
+      <option name="METHOD_NAME" value="abc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterChainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="filter-chain-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.FilterChainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFilter.abc" />
+        <item itemvalue="Spring Boot.FilterChainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d76c2b39-0d5f-4e5b-adbd-49902d9c8ae1" name="Changes" comment="" />
+      <created>1687328554706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687328554706</updated>
+      <workItem from="1687328556036" duration="2632000" />
+      <workItem from="1687656808371" duration="6563000" />
+      <workItem from="1687670531800" duration="23008000" />
+      <workItem from="1687852409467" duration="6050000" />
+      <workItem from="1687930286845" duration="5704000" />
+      <workItem from="1687943010495" duration="375000" />
+      <workItem from="1687943600127" duration="696000" />
+      <workItem from="1688364856535" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

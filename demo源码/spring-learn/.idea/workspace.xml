@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1122ec78-8574-4ffc-8b00-a2a6be985379" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/security/Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-learn-core/src/test/java/org/example/TestExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter-chain-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filter-chain-test/src/main/java/point/PointRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/core/SecurityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/entity/TestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-learn-security/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core-spring-labfiles" beforeDir="false" afterPath="$PROJECT_DIR$/../core-spring-labfiles" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/config/CoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/config/CoreConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/entity/CoreEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/src/main/java/org/example/entity/CoreEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/config/CoreConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/config/CoreConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/entity/CoreEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-core/target/classes/org/example/entity/CoreEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-security/src/main/resources/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/src/main/resources/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-learn-security/target/classes/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/target/classes/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../知识认证/Spring/第四章.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../知识认证/Spring/第四章.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/entity/SecurityEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/entity/SecurityEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-security/target/classes/org/example/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/target/classes/org/example/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-learn-security/target/classes/org/example/entity/SecurityEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-learn-security/target/classes/org/example/entity/SecurityEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识整理/JAVA中间件相关/11.Seata.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../知识整理/JAVA中间件相关/11.Seata.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../知识认证/Spring脑图/Spring.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../../知识认证/Spring脑图/Spring.xmind" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/spring-learn-security/src/main/java/org/example" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -88,20 +91,7 @@
       <recent name="org.example.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestExample.abc">
-    <configuration name="CoreEntity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.entity.CoreEntity" />
-      <module name="spring-learn-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.entity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.SecurityApplication">
     <configuration name="TestExample (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-learn-core" />
       <extension name="coverage">
@@ -161,13 +151,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-learn-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SecurityApplication" />
         <item itemvalue="JUnit.TestExample.abc" />
         <item itemvalue="JUnit.TestExample (1)" />
         <item itemvalue="JUnit.TestExample" />
         <item itemvalue="Spring Boot.CoreApplication" />
-        <item itemvalue="Application.CoreEntity" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +189,10 @@
       <workItem from="1684808395119" duration="22596000" />
       <workItem from="1685079330185" duration="29391000" />
       <workItem from="1685522033508" duration="8920000" />
+      <workItem from="1686212196492" duration="19271000" />
+      <workItem from="1686812941360" duration="715000" />
+      <workItem from="1687143035187" duration="23674000" />
+      <workItem from="1687259641851" duration="2561000" />
     </task>
     <servers />
   </component>
@@ -205,5 +212,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-learn-security/src/main/java/org/example/controller/SecurityController.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.example.entity.TestEntity" memberName="file" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

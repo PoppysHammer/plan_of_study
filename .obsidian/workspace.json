@@ -4,53 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "523d66d4241ec43b",
+        "id": "df1489f06250a791",
         "type": "tabs",
         "children": [
           {
-            "id": "49b204ddf8929e80",
+            "id": "77edbad9e3de2dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微信读书/计算机/通用源码阅读指导书：MyBatis源码详解.md",
+                "file": "知识认证/Spring/第五章.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "ee6e2f05e0fbf62a",
+            "id": "8d00966e380f4641",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "知识认证/Spring/第二章.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.5"
               }
-            },
-            "group": "3bfa53f433cc85ef"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "306d6af5527f6409",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc64adf8fdb2bfd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识认证/Spring/第二章.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "3bfa53f433cc85ef"
+            }
           }
         ]
       }
@@ -126,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识认证/Spring/第二章.md",
+                "file": "知识认证/Spring/第五章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识认证/Spring/第二章.md",
+                "file": "知识认证/Spring/第五章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识认证/Spring/第二章.md"
+                "file": "知识认证/Spring/第五章.md"
               }
             }
           }
@@ -192,28 +169,44 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ee6e2f05e0fbf62a",
+  "active": "77edbad9e3de2dbd",
   "lastOpenFiles": [
-    "知识认证/Spring脑图/Spring.xmind",
-    "知识认证/Spring脑图",
+    "demo源码/filter-chain-test/target/test-classes/org/example/TestFilter.class",
+    "demo源码/filter-chain-test/target/test-classes/org/example",
+    "demo源码/filter-chain-test/target/test-classes/org",
+    "demo源码/filter-chain-test/target/classes/org/example/filters/PointFilter2.class",
+    "demo源码/filter-chain-test/target/classes/org/example/filters/PointFilter3.class",
+    "demo源码/filter-chain-test/target/classes/org/example/pipeline/context/PointContext.class",
+    "demo源码/filter-chain-test/target/classes/org/example/filters/PointFilter1.class",
+    "demo源码/filter-chain-test/target/classes/org/example/FilterChainApplication.class",
+    "demo源码/filter-chain-test/target/classes/org/example/point/PointRequest.class",
+    "demo源码/filter-chain-test/target/classes/org/example/point",
+    "demo源码/filter-chain-test/target/classes/org/example/config/ChargePipelineConfig.class",
+    "知识整理/JAVA中间件相关/11.Seata.md",
+    "demo源码/filter-chain-test/src/main/java/org/example/pipeline/readme.md",
+    "demo源码/filter-chain-test/src/main/java/pipeline/readme.md",
+    "知识整理/JAVA中间件相关/8.服务治理-Sentinel.md",
+    "知识整理/JAVA中间件相关/5.ShardingSphere-JDBC.md",
+    "知识整理/JAVA中间件相关/4.Canal.md",
+    "知识整理/JAVA中间件相关/3.RocketMq.md",
+    "知识整理/JAVA中间件相关/2.RabbitMq.md",
+    "知识整理/JAVA中间件相关/1.Redis.md",
+    "知识整理/JAVA中间件相关/seata配置文件/seata-spring-boot-stater1.4.2-AT模式Redis注册中心.md",
+    "知识整理/JAVA中间件相关/seata配置文件/seata-spring-boot-starter1.4.2-AT模式File单机.md",
+    "知识整理/基础相关/16.Servlet是什么.md",
+    "知识整理/基础相关/15.Nginx是什么.md",
+    "知识整理/基础相关/14. http服务.md",
+    "知识认证/Spring/第一章.md",
+    "知识认证/Spring/第五章.md",
+    "知识认证/Spring/第四章.md",
+    "知识认证/Spring/第三章.md",
+    "知识认证/Spring/第二章.md",
+    "知识认证/Spring/资源整理.md",
     "知识认证/Spring/第六章.md",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common/money/PercentageTests.class",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common/money/MonetaryAmountTests.class",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common/money",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common/datetime/SimpleDateTests.class",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common/datetime/SimpleDateEditorTests.class",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common/datetime",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes/common",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/test-classes",
-    "demo源码/core-spring-labfiles/lab/00-rewards-common/target/generated-test-sources/test-annotations",
     "demo源码/core-spring-labfiles/lab/44-actuator-solution/target/classes/static/README.md",
     "demo源码/core-spring-labfiles/lab/44-actuator/target/classes/static/README.md",
     "demo源码/core-spring-labfiles/lab/42-security-rest-solution/target/classes/static/README.md",
     "demo源码/core-spring-labfiles/lab/42-security-rest/target/classes/static/README.md",
-    "demo源码/core-spring-labfiles/lab/40-boot-test-solution/target/classes/static/README.md",
-    "demo源码/core-spring-labfiles/lab/40-boot-test/target/classes/static/README.md",
-    "demo源码/core-spring-labfiles/lab/38-rest-ws-solution/target/classes/static/README.md",
-    "demo源码/core-spring-labfiles/lab/38-rest-ws/target/classes/static/README.md",
     "demo源码/core-spring-labfiles/lab/01-rewards-db/target/classes/static/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg",
     "demo源码/core-spring-labfiles/lab/01-rewards-db/target/classes/static/resources/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg",
     "demo源码/core-spring-labfiles/lab/01-rewards-db/target/classes/static/resources/images/spring-trans-dark.png",
@@ -223,22 +216,6 @@
     "demo源码/core-spring-labfiles/lab/01-rewards-db/src/main/resources/static/resources/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg",
     "demo源码/core-spring-labfiles/lab/01-rewards-db/src/main/java/static/resources/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg",
     "demo源码/core-spring-labfiles/lab/01-rewards-db/src/main/resources/static/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg",
-    "demo源码/core-spring-labfiles/lab/01-rewards-db/src/main/java/static/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg",
-    "demo源码/core-spring-labfiles/lab/44-actuator-solution/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/38-rest-ws/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/44-actuator/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/42-security-rest-solution/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/42-security-rest/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/40-boot-test-solution/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/40-boot-test/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/lab/38-rest-ws-solution/src/main/resources/static/README.md",
-    "demo源码/core-spring-labfiles/README.md",
-    "知识整理/深入了解JAVA相关/7.Thread-Interrupt.md",
-    "知识认证/Spring/资源整理.md",
-    "微信读书/计算机/通用源码阅读指导书：MyBatis源码详解.md",
-    "微信读书/计算机/从程序员到架构师：大数据量、缓存、高并发、微服务、多团队协同等核心场景实战.md",
-    "微信读书/个人成长/你也走了很远的路吧（全新增订本）.md",
-    "知识整理/基础相关/14. http服务.md",
-    "知识整理/基础相关/15.Nginx是什么.md"
+    "demo源码/core-spring-labfiles/lab/01-rewards-db/src/main/java/static/styles/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg"
   ]
 }
